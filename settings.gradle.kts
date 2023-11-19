@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TAKAPEDIA"
+rootProject.name = "Takapedia Top Up"
 include(":app")

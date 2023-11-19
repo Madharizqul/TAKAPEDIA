@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.TAKAPEDIA" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.TakapediaTopUp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/lavender</item>
     </style>
 
-    <style name="Theme.TAKAPEDIA" parent="Base.Theme.TAKAPEDIA" />
+    <style name="Theme.TakapediaTopUp" parent="Base.Theme.TakapediaTopUp" />
 </resources>
